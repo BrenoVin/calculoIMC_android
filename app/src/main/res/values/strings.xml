@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculoIMC.1.0</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="alturaText">Altura: (m)</string>
+    <string name="pesoText">Peso: (kg)</string>
+    <string name="sexo">Sexo:</string>
+    <string name="adulto">Adulto</string>
+    <string name="crianca">Criança</string>
+    <string name="calc">Calcular IMC</string>
+</resources>

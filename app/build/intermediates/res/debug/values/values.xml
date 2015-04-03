@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Breno/Dropbox/faculdade/5º%20semestre/android/CalculoIMC.1.0/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Breno/Dropbox/faculdade/5º%20semestre/android/CalculoIMC.1.0/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="adulto">Adulto</string>
+    <string name="alturaText">Altura: (m)</string>
+    <string name="app_name">CalculoIMC.1.0</string>
+    <string name="calc">Calcular IMC</string>
+    <string name="crianca">Criança</string>
+    <string name="pesoText">Peso: (kg)</string>
+    <string name="sexo">Sexo:</string>
+    <!-- From: file:/C:/Users/Breno/Dropbox/faculdade/5º%20semestre/android/CalculoIMC.1.0/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
